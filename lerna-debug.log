@@ -1,0 +1,4 @@
+40 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+40 error fatal: unable to access 'https://github.com/yingboyuan/yyb-lerna-test.git/': LibreSSL SSL_connect: Operation timed out in connection to github.com:443
+40 error     at makeError (/Users/hanxia/yyb/lerna-test-cli/lerna-test-cli/node_modules/execa/lib/error.js:60:11)
+40 error     at handlePromise (/Users/hanxia/yyb/lerna-test-cli/lerna-test-cli/node_modules/execa/index.js:118:26)
