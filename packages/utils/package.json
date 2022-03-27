@@ -1,0 +1,19 @@
+{
+  "name": "@yyb-lerna-test/utils",
+  "version": "1.0.0",
+  "description": "yyb-lerna-test utils",
+  "author": "hanxia <503126725@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
